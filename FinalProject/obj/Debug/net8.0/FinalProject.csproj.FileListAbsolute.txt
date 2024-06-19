@@ -1,0 +1,15 @@
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\bin\Debug\net8.0\FinalProject.exe
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\bin\Debug\net8.0\FinalProject.deps.json
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\bin\Debug\net8.0\FinalProject.runtimeconfig.json
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\bin\Debug\net8.0\FinalProject.dll
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\bin\Debug\net8.0\FinalProject.pdb
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\obj\Debug\net8.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfoInputs.cache
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfo.cs
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\obj\Debug\net8.0\FinalProject.csproj.CoreCompileInputs.cache
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\obj\Debug\net8.0\FinalProject.sourcelink.json
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\obj\Debug\net8.0\FinalProject.dll
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\obj\Debug\net8.0\refint\FinalProject.dll
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\obj\Debug\net8.0\FinalProject.pdb
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\obj\Debug\net8.0\FinalProject.genruntimeconfig.cache
+E:\Ammar\RPL\Semester 2\Struktur Data\FP\FinalProject\obj\Debug\net8.0\ref\FinalProject.dll
